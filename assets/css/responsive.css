@@ -1,0 +1,28 @@
+
+@media (max-width: 767.98px) {  .manage-theme-area .content-wrapper .item2, .manage-theme-area .content-wrapper .item3 {
+   width: 100%;
+   border-top: 1px solid #fff;
+}
+
+
+.manage-theme-area .content-wrapper .item1, .manage-theme-area .content-wrapper .item3.border-fix::before, .manage-theme-area .content-wrapper .item3.border-fix::after {
+  display: none;
+}
+
+
+}
+
+
+@media (max-width: 650px){
+
+  .what-we-do .single-item {
+    width: 100%;
+    text-align: center;
+    padding: 0;
+    margin-bottom: 35px;
+}
+.skill-section .row .float-right{
+  margin-bottom: 300px;
+  
+}
+}
